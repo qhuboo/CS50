@@ -1,0 +1,5 @@
+To calculate the audio aura for the listener I would first categorize moods and correnspond certain levels of energy, valence, and danceability for each mood.
+Then I would calculate the averages of each of these values and find the match with a corresponding mood.
+
+This might not be the best way since each song contributes to the average equally. The songs should contribute to the average in a weighted bases where songs
+higher on the list have more weight in the average.

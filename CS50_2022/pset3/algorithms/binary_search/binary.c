@@ -4,7 +4,7 @@
 int main(void)
 {
 	int numbers[] = {6, 7, 8, 9, 10, 11, 14, 15, 17, 19, 22, 23, 25, 28, 30};
-	int target = 16;
+	int target = 15;
 	int start = 0;
 	int end = 14;
 	int middle;

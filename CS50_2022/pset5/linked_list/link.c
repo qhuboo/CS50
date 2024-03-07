@@ -6,7 +6,7 @@
 // 4. Delete a single element from a linked list
 // 5. Delete an entire linked list
 
-// I have run out of time and will not be attempting the 4th operation until and unkown later date
+// I have run out of time and will not be attempting the 4th operation until an unkown later date
 
 #include <stdio.h>
 #include <stdlib.h>
